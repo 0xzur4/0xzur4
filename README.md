@@ -1,24 +1,23 @@
 # [Your Name]
 **Welcome to my GitHub Profile!**
 
-![Profile Views](https://komarev.com/ghpvc/?username=0xzur4&color=blueviolet)
-
 ## Who am I?
-A brief introduction about yourself.
+Hello i'm Gale.
 
 ## What am I learning?
-- Programming languages: Python, JavaScript, etc.
-- Technologies: React, Node.js, etc.
+- Programming languages: JavaScript, Rust, 
+- Technologies: React, Node.js,
 
 ## My Interests
 - Competitive Programming
 - Web Development
 
-## Achievements
+ <!.. ## Achievements
 - Achievement 1
 - Achievement 2
-
+..>
 ## My Stats
+![Profile Views](https://komarev.com/ghpvc/?username=0xzur4&color=blueviolet)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xzur4&show_icons=true&theme=radical)
 
 ## Connect with Me
