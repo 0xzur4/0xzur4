@@ -1,5 +1,6 @@
 # [Your Name]
 **Welcome to my GitHub Profile!**
+![Profile Views](https://komarev.com/ghpvc/?username=0xzur4&color=blueviolet)
 
 ## Who am I?
 Hello i'm Gale.
@@ -12,12 +13,11 @@ Hello i'm Gale.
 - Competitive Programming
 - Web Development
 
- <!.. ## Achievements
+ <!-- ## Achievements
 - Achievement 1
 - Achievement 2
-..>
+-->
 ## My Stats
-![Profile Views](https://komarev.com/ghpvc/?username=0xzur4&color=blueviolet)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xzur4&show_icons=true&theme=radical)
 
 ## Connect with Me
