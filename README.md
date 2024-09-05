@@ -11,6 +11,7 @@ Hello i'm Gale.
 
 ## My Stats
 <img src="https://github-readme-stats.vercel.app/api?username=0xzur4&show_icons=true&theme=radical" style="width: 50%; height: auto;" />
+<br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xzur4&layout=compact" style="width: 50%; height: auto;" />
 
 ## Connect with Me
