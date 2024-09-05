@@ -11,7 +11,7 @@ Hello i'm Gale.
 
 ## My Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xzur4&show_icons=true&theme=radical)
-<img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=0xzur4&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xzur4&layout=compact)
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
